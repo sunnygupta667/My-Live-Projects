@@ -30,19 +30,10 @@ Welcome to my curated collection of **live deployed web projects**. These projec
 # ✅ Task Management System
 
 A full-stack task manager application that allows users to efficiently **create, view, update, delete**, and **filter tasks**. Users can also **toggle task completion status**. The application features a **clean, responsive UI** powered by **Tailwind CSS**, and is backed by a fully deployed REST API.
-
----
-
-## 🚀 Tech Stack
-
 - **Frontend**: React, Vite, Tailwind CSS, Axios
 - **Backend**: Node.js, Express.js, MongoDB Atlas
 - **Deployment**: Render (Backend), Netlify/Vercel (Frontend)
-
----
-
 ## 🌐 Live Demo
-
 -🔗 **Frontend**: [https://daily-task-manager-for-you.netlify.app](https://daily-task-manager-for-you.netlify.app)
 
 ---
