@@ -33,8 +33,7 @@ A full-stack task manager application that allows users to efficiently **create,
 - **Frontend**: React, Vite, Tailwind CSS, Axios
 - **Backend**: Node.js, Express.js, MongoDB Atlas
 - **Deployment**: Render (Backend), Netlify/Vercel (Frontend)
-## 🌐 Live Demo
--🔗 **Frontend**: [https://daily-task-manager-for-you.netlify.app](https://daily-task-manager-for-you.netlify.app)
+- **🌐 Live Demo **: [https://daily-task-manager-for-you.netlify.app](https://daily-task-manager-for-you.netlify.app)
 
 ---
 
